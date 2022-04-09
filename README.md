@@ -1,1 +1,1 @@
-Gauss elimination method in Python
+**Gauss elimination method in Python**
