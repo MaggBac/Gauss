@@ -1,1 +1,1 @@
-"# Gauss" 
+# **Gauss elimination method in Python**
